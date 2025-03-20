@@ -1,10 +1,10 @@
 # Interface Layout of the Old Game "Nu Pogodi!"
 
 <p align="center">
-  <img src="img/image1.png" alt="Image 1" width="200" height="200">
+  <img src="img/Screenshot_3.png" alt="Image 1" width="550" height="339">
 
 </p>
-🔗 Live Demo:  [Play the Game Interface](https://alexsand-r.github.io/just-you-wait-html/)
+🔗 Live Demo:  https://alexsand-r.github.io/just-you-wait-html/
 
 ## Description
 This project represents the layout of the old game "Nu Pogodi!" using HTML and CSS. The project heavily utilizes the CSS Grid module and the `grid-area` property to create an adaptive and functional interface resembling the original game's design.
