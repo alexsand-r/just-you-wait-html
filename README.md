@@ -1,4 +1,5 @@
-# Interface Layout of the Old Game "Nu Pogodi!"
+# <h1 align="center">Interface Layout of the Old Game "Nu Pogodi!"</h1>
+
 
 <p align="center">
   <img src="img/Screenshot_3.png" alt="Image 1" width="550" height="339">
