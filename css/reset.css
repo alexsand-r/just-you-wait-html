@@ -1,0 +1,35 @@
+/*Обнуление*/
+
+/* Подключаем шрифт */
+*{padding: 0;margin: 0;border: 0;}
+
+/*--------------------*/
+
+
+
+
+/*  подключаю шрифт */
+/*
+@font-face {
+    font-family: 'Istok';
+    src: url('../fonts/istokregular.woff2') format('woff2'), url('../fonts/istokregular.woff') format('woff');
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}*/
+
+
+
+
+.wrapper {
+    position: relative;
+    min-height: 100%; /* или 100vh*/
+    overflow: hidden; 
+    /* overflow: clip;   с clip работает позишен стик*/
+    display: flex;          /*  ----  делаем флекс  */
+    flex-direction: column; /* переводим флекс в вертикаль - и добавляем в main " flex: 1 1 auto; " опускаем подвал   */
+}
+
+
+
+
